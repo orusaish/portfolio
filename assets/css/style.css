@@ -62,6 +62,12 @@ body {
 .info {
   margin-left: 30px;
 }
+.card {
+  min-height: 200;
+}
+.card-body {
+  min-height: 200;
+}
 
 .detail p {
   margin-left: 1rem;
